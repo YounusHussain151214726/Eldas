@@ -6,7 +6,7 @@ const Home = () => {
       <section className="Group1">
         <div className="subGroup1">
           <div className="navdiv">
-          <img src='./images/header-bg.jpg' id='G1hi'/>
+            <img src="./images/header-bg.jpg" id="G1hi" />
 
             <span className="logosp">
               {" "}
@@ -60,18 +60,11 @@ const Home = () => {
         </div>
       </section>
 
-
-
-
-
-
-
       {/* ///////////////////////////////////////////////// */}
 
-{/* Group 3 Start */}
- {/* ///////////////////////////////////////////////////// */}
-      
-      
+      {/* Group 3 Start */}
+      {/* ///////////////////////////////////////////////////// */}
+
       <section className="Group3">
         <span id="G3sp">FEATURES AND SERVICES</span>
         <h1 id="G3h"> How we satisfy our clients</h1>
@@ -128,38 +121,30 @@ const Home = () => {
         </div>
       </section>
 
+      {/* //////////////////////////////////////////////////// */}
+      {/* Group 4 Start */}
+      {/* ////////////////////////////////////////////////////////// */}
 
+      <section className="Group4">
+        <div id="subGroup4">
+          <span id="G4sp">CALL TO ACTION</span>
+          <br />
+          <h id="G4h">Start building your website with modern CMS</h>
+          <p id="G4p">
+            {" "}
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+            consequat vestibulum nisl eu pellentesque.
+          </p>
 
-
-{/* //////////////////////////////////////////////////// */}
-{/* Group 4 Start */}
-{/* ////////////////////////////////////////////////////////// */}
-
-
-<section className="Group4">
-
-
-<div id="subGroup4">
-<span id="G4sp">CALL TO ACTION</span>
-<br/>
-<h id='G4h'>Start building your website with modern CMS</h>
-<p id="G4p">   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse consequat vestibulum nisl eu pellentesque.</p>
-
-
-<span id="G4sp1">
-            Created By  : <a href="https://m.facebook.com/younus.hussain.786" >
+          <span id="G4sp1">
+            Created By :{" "}
+            <a href="https://m.facebook.com/younus.hussain.786">
               Syed Mohammad Younis
             </a>{" "}
             2022,ALL RIGHT RESERVED.
           </span>
-</div>
-
-</section>
-
-
-
-
+        </div>
+      </section>
     </div>
   );
 };

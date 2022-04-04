@@ -1,26 +1,24 @@
-
 /* NAvbar Section */
-.Group1{
+.Group1 {
   height: 48pc;
-max-width: 100vw;
+  max-width: 100vw;
 }
 
 .subGroup1 {
   display: flex;
   flex-direction: row;
-max-width: 97pc;
+  max-width: 97pc;
 }
 
 .navdiv {
-  
   width: 100vw;
   height: 45pc;
 }
-#G1hi{
+#G1hi {
   position: relative;
   top: 0pc;
-left: -1pc;
-width: 100pc;
+  left: -1pc;
+  width: 100pc;
 }
 
 #navul {
@@ -45,82 +43,80 @@ width: 100pc;
   top: 1pc;
   left: 4pc;
 }
-#headingpera{
+#headingpera {
   border: 2px soid green;
   position: relative;
   top: -35pc;
   left: 6pc;
   width: 31pc;
 }
-#G1h{
-font-size: 4pc;
+#G1h {
+  font-size: 4pc;
 }
 
-#G1p{
+#G1p {
   position: relative;
   top: -3pc;
   left: 0.5pc;
 }
-#G1b{
+#G1b {
   position: relative;
   top: -3pc;
   left: 0.5pc;
   background-color: red;
-color:white;
-width: 8pc;
-height: 2pc;
-border-radius: 0.5pc;
-font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  width: 8pc;
+  height: 2pc;
+  border-radius: 0.5pc;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 /* Header Section Ended , Group1 contain Navbar and Header portion */
 
 /* //////////////////////////////////////// */
 
-
 /* Group2 Start */
 
-.Group2{
+.Group2 {
   margin-top: 2pc;
   max-width: 100vw;
 }
 
-#subGroup2{
+#subGroup2 {
   display: flex;
-  flex-direction:row;
-max-width: 97pc;
+  flex-direction: row;
+  max-width: 97pc;
 }
 
-#contentdiv{
- position: relative;
-top:5pc;
+#contentdiv {
+  position: relative;
+  top: 5pc;
   left: 13.5pc;
   width: 25pc;
   height: 20pc;
 }
-#G2sp{
+#G2sp {
   position: relative;
   left: 19pc;
   color: gray;
   font-size: 14px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
-#G2h{
+#G2h {
   position: relative;
   font-size: 2.3pc;
-left: 6pc;
-top: -2.4pc;
+  left: 6pc;
+  top: -2.4pc;
 }
 
-#G2p{
+#G2p {
   position: relative;
   top: -3.7pc;
-left: 5.6pc;
-width: 20pc;
-
+  left: 5.6pc;
+  width: 20pc;
 }
 
-#G2b{
+#G2b {
   width: 8pc;
   height: 2pc;
   position: relative;
@@ -129,2195 +125,2171 @@ width: 20pc;
   background-color: red;
   color: white;
   border-radius: 0.9pc;
-font-weight: 900;
-
+  font-weight: 900;
 }
-#G2i{
+#G2i {
   position: relative;
   left: 13pc;
-
 }
 
 /* //////////////////////////////////////////////////////////////// */
 /* Group 2 end here */
 /* ///////////////////////////////////////////////////////////////// */
 
-
 /* Group 3 Start */
 
-.Group3{
+.Group3 {
   height: 40pc;
-margin-top: 4pc;
-max-width: 100vw;
-
+  margin-top: 4pc;
+  max-width: 100vw;
 }
-#subGroup3{
-display: flex;
-flex-direction: row;
-flex-wrap: wrap;
-margin-top: -3pc;
-height: 33pc;
-max-width: 97pc;
+#subGroup3 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: -3pc;
+  height: 33pc;
+  max-width: 97pc;
 }
-#box1,#box2,#box3,#box4,#box5,#box6{
-
+#box1,
+#box2,
+#box3,
+#box4,
+#box5,
+#box6 {
   margin-left: 4pc;
   height: 10pc;
   width: 20pc;
-margin-top: 3pc;
-
+  margin-top: 3pc;
 }
 
-#G3sp{
+#G3sp {
   margin-left: 35.3pc;
-  color: gray;font-family:Verdana, Geneva, Tahoma, sans-serif;
-letter-spacing: 0.1pc;
-font-weight: 600;
-font-size: 12px;
-
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 0.1pc;
+  font-weight: 600;
+  font-size: 12px;
 }
 
-#G3h{
-margin-left: 25pc;
+#G3h {
+  margin-left: 25pc;
   font-size: 3pc;
-margin-top: -1pc;
-
+  margin-top: -1pc;
 }
 
-#Bx1h,#Bx2h,#Bx3h,#Bx4h,#Bx5h,#Bx6h{
+#Bx1h,
+#Bx2h,
+#Bx3h,
+#Bx4h,
+#Bx5h,
+#Bx6h {
   position: relative;
   top: 2pc;
   left: -5pc;
   font-weight: 600;
 }
 
-#Bx1p,#Bx2p,#Bx3p,#Bx4p,#Bx5p,#Bx6p{
+#Bx1p,
+#Bx2p,
+#Bx3p,
+#Bx4p,
+#Bx5p,
+#Bx6p {
   position: relative;
   top: 1.5pc;
-color: gray;
-
+  color: gray;
 }
-
 
 /* ////////////////////////////////////////////////////////////////// */
 /* Group 3 End here */
 /* /////////////////////////////////////////////////////////////////// */
 
-
-.Group4{
-margin-top: 5pc;
-max-width: 100vw;
+.Group4 {
+  margin-top: 5pc;
+  max-width: 100vw;
 }
 
-#subGroup4{
-  background-image: url('/public/images/footer.png');
+#subGroup4 {
+  background-image: url("/public/images/footer.png");
   height: 22pc;
-max-width: 97pc;
+  max-width: 97pc;
 }
 
-#G4sp{
-
-position:absolute;
-top: 135pc;
-left: 34pc;
-letter-spacing: 0.2pc;
-color: white;
-font-family:Verdana, Geneva, Tahoma, sans-serif;
-
+#G4sp {
+  position: absolute;
+  top: 135pc;
+  left: 34pc;
+  letter-spacing: 0.2pc;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#G4h{
+#G4h {
   position: absolute;
   top: 136pc;
   left: 20pc;
   font-size: 2pc;
-color: white;
-font-weight: 600;
-
+  color: white;
+  font-weight: 600;
 }
 
-#G4p{
+#G4p {
   position: absolute;
   top: 134pc;
   left: 10pc;
   color: white;
   font-size: 1.2pc;
-
 }
 
-#G4sp1{
+#G4sp1 {
   position: absolute;
   top: 145pc;
   left: 28pc;
-
 }
-
-
-
 
 /* ////////////////////////////////// */
 
 /* responsive code */
 
-
-  
-@media (min-width:350px) and (max-width:400px){
-
-  .Group1{
-  height: 25pc;
-max-width: 100pc; 
-}
-  #logoI{
-    left:1pc;
+@media (min-width: 350px) and (max-width: 400px) {
+  .Group1 {
+    height: 25pc;
+    max-width: 100pc;
+  }
+  #logoI {
+    left: 1pc;
     width: 7pc;
   }
 
-  
-  .subGroup1{
+  .subGroup1 {
     width: 0pc;
   }
 
-  .navdiv{
+  .navdiv {
     width: 100pc;
-  width: 0vmax;
-  margin-left: -3pc;
-height: 20pc;
-}
-  #navul{
+    width: 0vmax;
+    margin-left: -3pc;
+    height: 20pc;
+  }
+  #navul {
     margin-left: 1pc;
     color: white;
     position: absolute;
     top: 1pc;
     left: 7pc;
   }
-  #navli1,#navli2,#navli3,#navli4{
+  #navli1,
+  #navli2,
+  #navli3,
+  #navli4 {
     color: white;
     margin-left: 0.5pc;
     font-size: 0.7pc;
     font-weight: 600;
   }
-  #headingpera{
-    left: 1pc;  
+  #headingpera {
+    left: 1pc;
     top: 9.5pc;
-position: absolute;
-width: 20pc;
-height: 13pc;
-
-}
-  #G1h{
+    position: absolute;
+    width: 20pc;
+    height: 13pc;
+  }
+  #G1h {
     font-size: 1.1pc;
     /* margin-left: -3pc;
     margin-top: -6pc; */
     position: relative;
-  left: 0.5pc;
+    left: 0.5pc;
   }
-  #G1p{
-top:-1pc;
-left: 0.5pc;
-width: 19pc;
-font-size: 1.111pc;
-}
-  #G1b{
+  #G1p {
+    top: -1pc;
+    left: 0.5pc;
+    width: 19pc;
+    font-size: 1.111pc;
+  }
+  #G1b {
     top: -1pc;
     left: 1.1pc;
   }
-  #G1hi{
+  #G1hi {
     left: 4.6pc;
     width: 55.5vmax;
     height: 40vmax;
   }
 
-
-
-
-
-
-/* Group 2start */
-
-#subGroup2{
-  height: 30pc;
-}
-#G2i{
-margin-left: -10pc;
-  width: 15pc;
-  height: 14pc;
-}
-
-#contentdiv{
-  margin-left: -22.5pc;
-  margin-top: 7pc;
-
-}
-#G2h{
-  font-size: 1.2pc;
-  margin-top: 3pc;
-width: 20pc;
-margin-left: -1.2pc;
-
-}
-#G2sp{
- 
-  position: relative;
-  left: 18.2pc;
-  top: 1pc;
-
-}
-#G2p{
-  top: -3pc;
-max-width: 19pc;
-
-}
-
-#G2b{
-  top: -3pc;
-left: 11pc;
-}
-
-.Group1,.Group2,.Group3,.Group4{
-}
-
-#subGroup2{
-}
-
-
-
-
-
-
-
-/* Group 3 */
-
-.Group3{
-  margin-top: 2pc;
-
-  height: 230vh;
-}
-#subGroup3{
-  height: 228vh;
-}
-
-#G3sp{
-  margin-left: 5pc;
-
-}
-#G3h{
-position: relative;
-  font-size: 1.4pc;
-  top: 1pc;
-left: -22.5pc;
-width: 18pc;
-
-}
-#box1, #box2, #box3, #box4, #box5, #box6{
-  margin-left: 1pc;
-height: 15pc;
-border: 1.2px solid rgb(118, 98, 98);
-border-radius: 5px;
-}
-#Bx1i,#Bx2i,#Bx3i,#Bx4i,#Bx5i,#Bx6i{
-  position: relative;
-  left: 7pc;
-  top: 0.5pc;
-
-}
-#Bx1h, #Bx2h, #Bx3h, #Bx4h, #Bx5h, #Bx6h {
-left:0.1pc;
-}
-#Bx1p, #Bx2p, #Bx3p, #Bx4p, #Bx5p, #Bx6p {
-width: 18pc;
-left: 1pc;
-}
-
-/* Group4 */
-
-.Group4{
-  margin-top: 12pc;
-
-}
-
-#G4sp{
-  top: 189pc;
-  left: 7pc;
-
-}
-#G4h{
-  top: 190pc;
-  left: 2pc;
-  font-size: 1pc;
-  font-weight: 400;
-
-}
-
-#G4p{
-  top: 192pc;
-  left: 2pc;
-  font-size: 15px;
-width: 20pc;
-}
-#G4sp1{
-  top: 205pc;
-  left: 2pc;
-  font-size: 15px;
-width: 20pc;
-}
-}
-
-
-
-@media (min-width:400px) and (max-width:450px){
-
-  .Group1{
-    height: 25pc;
-  max-width: 100pc; 
-  }
-    #logoI{
-      left:1pc;
-      width: 7pc;
-    }
-  
-    
-    .subGroup1{
-      width: 0pc;
-    }
-  
-    .navdiv{
-      width: 100pc;
-    width: 0vmax;
-    margin-left: -3pc;
-  height: 20pc;
-  }
-    #navul{
-      margin-left: 1pc;
-      color: white;
-      position: absolute;
-      top: 1pc;
-      left: 9pc;
-    }
-    #navli1,#navli2,#navli3,#navli4{
-      color: white;
-      margin-left: 0.5pc;
-      font-size: 0.7pc;
-      font-weight: 600;
-    }
-    #headingpera{
-      left: 1pc;  
-      top: 7pc;
-  position: absolute;
-  width: 20pc;
-  height: 13pc;
-  
-  }
-    #G1h{
-      font-size: 1.5pc;
-      /* margin-left: -3pc;
-      margin-top: -6pc; */
-      position: relative;
-    left: 0.5pc;
-    }
-    #G1p{
-  top:-1pc;
-  left: 0.5pc;
-  width: 19pc;
-  font-size: 1.111pc;
-  }
-    #G1b{
-      top: -1pc;
-      left: 1.1pc;
-    }
-    #G1hi{
-      left: 4.6pc;
-      width: 65vmax;
-      height: 40vmax;
-    }
-  
-  
-  
-  
-  
-  
   /* Group 2start */
-  
-  #subGroup2{
+
+  #subGroup2 {
     height: 30pc;
   }
-  #G2i{
-  margin-left: -7pc;
+  #G2i {
+    margin-left: -10pc;
     width: 15pc;
     height: 14pc;
   }
-  
-  #contentdiv{
+
+  #contentdiv {
     margin-left: -22.5pc;
     margin-top: 7pc;
-  
   }
-  #G2h{
+  #G2h {
     font-size: 1.2pc;
     margin-top: 3pc;
-  width: 20pc;
-  margin-left: -1.2pc;
-  
+    width: 20pc;
+    margin-left: -1.2pc;
   }
-  #G2sp{
-   
+  #G2sp {
     position: relative;
     left: 18.2pc;
     top: 1pc;
-  
   }
-  #G2p{
+  #G2p {
     top: -3pc;
-  max-width: 19pc;
-  
+    max-width: 19pc;
   }
-  
-  #G2b{
+
+  #G2b {
     top: -3pc;
-  left: 11pc;
+    left: 11pc;
   }
-  
-  .Group1,.Group2,.Group3,.Group4{
+
+  .Group1,
+  .Group2,
+  .Group3,
+  .Group4 {
   }
-  
-  #subGroup2{
+
+  #subGroup2 {
   }
-  
-  
-  
-  
-  
-  
-  
+
   /* Group 3 */
-  
-  .Group3{
+
+  .Group3 {
     margin-top: 2pc;
-  
+
     height: 230vh;
   }
-  #subGroup3{
+  #subGroup3 {
     height: 228vh;
   }
-  
-  #G3sp{
-    margin-left: 7pc;
-  
+
+  #G3sp {
+    margin-left: 5pc;
   }
-  #G3h{
-  position: relative;
+  #G3h {
+    position: relative;
     font-size: 1.4pc;
     top: 1pc;
-  left: -19.5pc;
-  width: 18pc;
-  
+    left: -22.5pc;
+    width: 18pc;
   }
-  #box1, #box2, #box3, #box4, #box5, #box6{
-    margin-left: 4pc;
-  height: 15pc;
-  border: 1.2px solid rgb(118, 98, 98);
-  border-radius: 5px;
+  #box1,
+  #box2,
+  #box3,
+  #box4,
+  #box5,
+  #box6 {
+    margin-left: 1pc;
+    height: 15pc;
+    border: 1.2px solid rgb(118, 98, 98);
+    border-radius: 5px;
   }
-  #Bx1i,#Bx2i,#Bx3i,#Bx4i,#Bx5i,#Bx6i{
+  #Bx1i,
+  #Bx2i,
+  #Bx3i,
+  #Bx4i,
+  #Bx5i,
+  #Bx6i {
     position: relative;
     left: 7pc;
     top: 0.5pc;
-  
   }
-  #Bx1h, #Bx2h, #Bx3h, #Bx4h, #Bx5h, #Bx6h {
-  left:0.1pc;
+  #Bx1h,
+  #Bx2h,
+  #Bx3h,
+  #Bx4h,
+  #Bx5h,
+  #Bx6h {
+    left: 0.1pc;
   }
-  #Bx1p, #Bx2p, #Bx3p, #Bx4p, #Bx5p, #Bx6p {
-  width: 18pc;
-  left: 1pc;
+  #Bx1p,
+  #Bx2p,
+  #Bx3p,
+  #Bx4p,
+  #Bx5p,
+  #Bx6p {
+    width: 18pc;
+    left: 1pc;
   }
-  
+
   /* Group4 */
-  
-  .Group4{
+
+  .Group4 {
+    margin-top: 12pc;
+  }
+
+  #G4sp {
+    top: 189pc;
+    left: 7pc;
+  }
+  #G4h {
+    top: 190pc;
+    left: 2pc;
+    font-size: 1pc;
+    font-weight: 400;
+  }
+
+  #G4p {
+    top: 192pc;
+    left: 2pc;
+    font-size: 15px;
+    width: 20pc;
+  }
+  #G4sp1 {
+    top: 205pc;
+    left: 2pc;
+    font-size: 15px;
+    width: 20pc;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 450px) {
+  .Group1 {
+    height: 25pc;
+    max-width: 100pc;
+  }
+  #logoI {
+    left: 1pc;
+    width: 7pc;
+  }
+
+  .subGroup1 {
+    width: 0pc;
+  }
+
+  .navdiv {
+    width: 100pc;
+    width: 0vmax;
+    margin-left: -3pc;
+    height: 20pc;
+  }
+  #navul {
+    margin-left: 1pc;
+    color: white;
+    position: absolute;
+    top: 1pc;
+    left: 9pc;
+  }
+  #navli1,
+  #navli2,
+  #navli3,
+  #navli4 {
+    color: white;
+    margin-left: 0.5pc;
+    font-size: 0.7pc;
+    font-weight: 600;
+  }
+  #headingpera {
+    left: 1pc;
+    top: 7pc;
+    position: absolute;
+    width: 20pc;
+    height: 13pc;
+  }
+  #G1h {
+    font-size: 1.5pc;
+    /* margin-left: -3pc;
+      margin-top: -6pc; */
+    position: relative;
+    left: 0.5pc;
+  }
+  #G1p {
+    top: -1pc;
+    left: 0.5pc;
+    width: 19pc;
+    font-size: 1.111pc;
+  }
+  #G1b {
+    top: -1pc;
+    left: 1.1pc;
+  }
+  #G1hi {
+    left: 4.6pc;
+    width: 65vmax;
+    height: 40vmax;
+  }
+
+  /* Group 2start */
+
+  #subGroup2 {
+    height: 30pc;
+  }
+  #G2i {
+    margin-left: -7pc;
+    width: 15pc;
+    height: 14pc;
+  }
+
+  #contentdiv {
+    margin-left: -22.5pc;
+    margin-top: 7pc;
+  }
+  #G2h {
+    font-size: 1.2pc;
+    margin-top: 3pc;
+    width: 20pc;
+    margin-left: -1.2pc;
+  }
+  #G2sp {
+    position: relative;
+    left: 18.2pc;
+    top: 1pc;
+  }
+  #G2p {
+    top: -3pc;
+    max-width: 19pc;
+  }
+
+  #G2b {
+    top: -3pc;
+    left: 11pc;
+  }
+
+  .Group1,
+  .Group2,
+  .Group3,
+  .Group4 {
+  }
+
+  #subGroup2 {
+  }
+
+  /* Group 3 */
+
+  .Group3 {
+    margin-top: 2pc;
+
+    height: 230vh;
+  }
+  #subGroup3 {
+    height: 228vh;
+  }
+
+  #G3sp {
+    margin-left: 7pc;
+  }
+  #G3h {
+    position: relative;
+    font-size: 1.4pc;
+    top: 1pc;
+    left: -19.5pc;
+    width: 18pc;
+  }
+  #box1,
+  #box2,
+  #box3,
+  #box4,
+  #box5,
+  #box6 {
+    margin-left: 4pc;
+    height: 15pc;
+    border: 1.2px solid rgb(118, 98, 98);
+    border-radius: 5px;
+  }
+  #Bx1i,
+  #Bx2i,
+  #Bx3i,
+  #Bx4i,
+  #Bx5i,
+  #Bx6i {
+    position: relative;
+    left: 7pc;
+    top: 0.5pc;
+  }
+  #Bx1h,
+  #Bx2h,
+  #Bx3h,
+  #Bx4h,
+  #Bx5h,
+  #Bx6h {
+    left: 0.1pc;
+  }
+  #Bx1p,
+  #Bx2p,
+  #Bx3p,
+  #Bx4p,
+  #Bx5p,
+  #Bx6p {
+    width: 18pc;
+    left: 1pc;
+  }
+
+  /* Group4 */
+
+  .Group4 {
     margin-top: 13pc;
   }
-  
-  #G4sp{
+
+  #G4sp {
     top: 189pc;
     left: 8pc;
-  
   }
-  #G4h{
+  #G4h {
     top: 192pc;
     left: 4pc;
     font-size: 1pc;
     font-weight: 400;
-  
   }
-  
-  #G4p{
+
+  #G4p {
     top: 193pc;
     left: 4pc;
     font-size: 15px;
-  width: 20pc;
+    width: 20pc;
   }
-  #G4sp1{
+  #G4sp1 {
     top: 205pc;
     left: 4pc;
     font-size: 15px;
-  width: 20pc;
+    width: 20pc;
   }
-
-
 }
 
-
-
-@media (min-width:500px) and (max-width:550px){
-
-  .Group1{
+@media (min-width: 500px) and (max-width: 550px) {
+  .Group1 {
     height: 25pc;
-  max-width: 100pc; 
+    max-width: 100pc;
   }
-    #logoI{
-      left:1pc;
-      width: 7pc;
-    }
-  
-    
-    .subGroup1{
-      width: 0pc;
-    }
-  
-    .navdiv{
-      width: 100pc;
+  #logoI {
+    left: 1pc;
+    width: 7pc;
+  }
+
+  .subGroup1 {
+    width: 0pc;
+  }
+
+  .navdiv {
+    width: 100pc;
     width: 0vmax;
     margin-left: -3pc;
-  height: 20pc;
+    height: 20pc;
   }
-    #navul{
-      margin-left: 5pc;
-      color: white;
-      position: absolute;
-      top: 1pc;
-      left: 9pc;
-    }
-    #navli1,#navli2,#navli3,#navli4{
-      color: white;
-      margin-left: 0.5pc;
-      font-size: 0.7pc;
-      font-weight: 600;
-    }
-    #headingpera{
-      left: 1pc;  
-      top: 7pc;
-  position: absolute;
-  width: 20pc;
-  height: 13pc;
-  
+  #navul {
+    margin-left: 5pc;
+    color: white;
+    position: absolute;
+    top: 1pc;
+    left: 9pc;
   }
-    #G1h{
-      font-size: 1.6pc;
-      /* margin-left: -3pc;
+  #navli1,
+  #navli2,
+  #navli3,
+  #navli4 {
+    color: white;
+    margin-left: 0.5pc;
+    font-size: 0.7pc;
+    font-weight: 600;
+  }
+  #headingpera {
+    left: 1pc;
+    top: 7pc;
+    position: absolute;
+    width: 20pc;
+    height: 13pc;
+  }
+  #G1h {
+    font-size: 1.6pc;
+    /* margin-left: -3pc;
       margin-top: -6pc; */
-      position: relative;
+    position: relative;
     left: 0.5pc;
-    }
-    #G1p{
-  top:-1pc;
-  left: 0.5pc;
-  width: 22pc;
-  font-size: 1.3pc;
   }
-    #G1b{
-      top: -1pc;
-      left: 1.1pc;
-    }
-    #G1hi{
-      left: 4.6pc;
-      width: 79vmax;
-      height: 40vmax;
-    }
-  
-  
-  
-  
-  
-  
+  #G1p {
+    top: -1pc;
+    left: 0.5pc;
+    width: 22pc;
+    font-size: 1.3pc;
+  }
+  #G1b {
+    top: -1pc;
+    left: 1.1pc;
+  }
+  #G1hi {
+    left: 4.6pc;
+    width: 79vmax;
+    height: 40vmax;
+  }
+
   /* Group 2start */
-  
-  #subGroup2{
+
+  #subGroup2 {
     height: 30pc;
   }
-  #G2i{
-  margin-left: -6pc;
+  #G2i {
+    margin-left: -6pc;
     width: 20pc;
     height: 17pc;
   }
-  
-  #contentdiv{
+
+  #contentdiv {
     margin-left: -23.5pc;
     margin-top: 8pc;
   }
-  #G2h{
+  #G2h {
     font-size: 1.5pc;
     margin-top: 3pc;
-  width: 20pc;
-  margin-left:-1pc;
-  
+    width: 20pc;
+    margin-left: -1pc;
   }
-  #G2sp{
-   
+  #G2sp {
     position: relative;
     left: 18.2pc;
     top: 1pc;
-  
   }
-  #G2p{
+  #G2p {
     top: -3pc;
-  max-width: 19pc;
-  font-size: 1.2pc;
-  left: 5pc;
+    max-width: 19pc;
+    font-size: 1.2pc;
+    left: 5pc;
   }
-  
-  #G2b{
+
+  #G2b {
     top: -3pc;
-  left: 11pc;
+    left: 11pc;
   }
-  
-  .Group1,.Group2,.Group3,.Group4{
+
+  .Group1,
+  .Group2,
+  .Group3,
+  .Group4 {
   }
-  
-  #subGroup2{
+
+  #subGroup2 {
   }
-  
-  
-  
-  
-  
-  
-  
+
   /* Group 3 */
-  
-  .Group3{
+
+  .Group3 {
     margin-top: 4pc;
-  
+
     height: 230vh;
   }
-  #subGroup3{
+  #subGroup3 {
     height: 228vh;
   }
-  
-  #G3sp{
+
+  #G3sp {
     margin-left: 11pc;
-  
   }
-  #G3h{
-  position: relative;
+  #G3h {
+    position: relative;
     font-size: 1.4pc;
     top: 1pc;
-  left: -16.5pc;
-  width: 18pc;
-  
+    left: -16.5pc;
+    width: 18pc;
   }
-  #box1, #box2, #box3, #box4, #box5, #box6{
+  #box1,
+  #box2,
+  #box3,
+  #box4,
+  #box5,
+  #box6 {
     margin-left: 7pc;
-  height: 15pc;
-  border: 1.2px solid rgb(118, 98, 98);
-  border-radius: 5px;
+    height: 15pc;
+    border: 1.2px solid rgb(118, 98, 98);
+    border-radius: 5px;
   }
-  #Bx1i,#Bx2i,#Bx3i,#Bx4i,#Bx5i,#Bx6i{
+  #Bx1i,
+  #Bx2i,
+  #Bx3i,
+  #Bx4i,
+  #Bx5i,
+  #Bx6i {
     position: relative;
     left: 7pc;
     top: 0.5pc;
-  
   }
-  #Bx1h, #Bx2h, #Bx3h, #Bx4h, #Bx5h, #Bx6h {
-  left:0.1pc;
+  #Bx1h,
+  #Bx2h,
+  #Bx3h,
+  #Bx4h,
+  #Bx5h,
+  #Bx6h {
+    left: 0.1pc;
   }
-  #Bx1p, #Bx2p, #Bx3p, #Bx4p, #Bx5p, #Bx6p {
-  width: 18pc;
-  left: 1pc;
+  #Bx1p,
+  #Bx2p,
+  #Bx3p,
+  #Bx4p,
+  #Bx5p,
+  #Bx6p {
+    width: 18pc;
+    left: 1pc;
   }
-  
+
   /* Group4 */
-  
-  .Group4{
+
+  .Group4 {
     margin-top: 17pc;
-  
   }
-  
-  #G4sp{
+
+  #G4sp {
     top: 189pc;
     left: 11pc;
-  
   }
-  #G4h{
+  #G4h {
     top: 191pc;
     left: 7pc;
     font-size: 1pc;
     font-weight: 400;
-  
   }
-  
-  #G4p{
+
+  #G4p {
     top: 192pc;
     left: 7pc;
     font-size: 15px;
-  width: 20pc;
+    width: 20pc;
   }
-  #G4sp1{
+  #G4sp1 {
     top: 199pc;
     left: 7pc;
     font-size: 15px;
-  width: 20pc;
+    width: 20pc;
   }
-
-  
 }
 
+@media (min-width: 550px) and (max-width: 600px) {
+  .Group1 {
+    height: 25pc;
+    max-width: 100pc;
+  }
+  #logoI {
+    left: 1pc;
+    width: 7pc;
+  }
 
+  .subGroup1 {
+    width: 0pc;
+  }
 
-@media (min-width:550px) and (max-width:600px){
-
-
-  
-    .Group1{
-      height: 25pc;
-    max-width: 100pc; 
-    }
-      #logoI{
-        left:1pc;
-        width: 7pc;
-      }
-    
-      
-      .subGroup1{
-        width: 0pc;
-      }
-    
-      .navdiv{
-        width: 100pc;
-      width: 0vmax;
-      margin-left: -3pc;
+  .navdiv {
+    width: 100pc;
+    width: 0vmax;
+    margin-left: -3pc;
     height: 20pc;
-    }
-      #navul{
-        margin-left: 11pc;
-        color: white;
-        position: absolute;
-        top: 1pc;
-        left: 9pc;
-      }
-      #navli1,#navli2,#navli3,#navli4{
-        color: white;
-        margin-left: 0.5pc;
-        font-size: 0.7pc;
-        font-weight: 600;
-      }
-      #headingpera{
-        left: 1pc;  
-        top: 7pc;
+  }
+  #navul {
+    margin-left: 11pc;
+    color: white;
+    position: absolute;
+    top: 1pc;
+    left: 9pc;
+  }
+  #navli1,
+  #navli2,
+  #navli3,
+  #navli4 {
+    color: white;
+    margin-left: 0.5pc;
+    font-size: 0.7pc;
+    font-weight: 600;
+  }
+  #headingpera {
+    left: 1pc;
+    top: 7pc;
     position: absolute;
     width: 20pc;
     height: 13pc;
-    
-    }
-      #G1h{
-        font-size: 1.7pc;
-        /* margin-left: -3pc;
+  }
+  #G1h {
+    font-size: 1.7pc;
+    /* margin-left: -3pc;
         margin-top: -6pc; */
-        position: relative;
-      left: 0.5pc;
-      }
-      #G1p{
-    top:-1pc;
+    position: relative;
+    left: 0.5pc;
+  }
+  #G1p {
+    top: -1pc;
     left: 0.5pc;
     width: 22pc;
     font-size: 1.3pc;
-    }
-      #G1b{
-        top: -1pc;
-        left: 1.1pc;
-      }
-      #G1hi{
-        left: 4.6pc;
-        width: 88vmax;
-        height: 40vmax;
-      }
-    
-    
-    
-    
-    
-    
-    /* Group 2start */
-    
-    #subGroup2{
-      height: 30pc;
-    }
-    #G2i{
-    margin-left: -5pc;
-      width: 23pc;
-      height: 20pc;
-    }
-    
-    #contentdiv{
-      margin-left: -27.5pc;
-      margin-top: 12pc;
-    }
-    #G2h{
-      font-size: 1.7pc;
-      margin-top: 3pc;
-    width: 25pc;
-    margin-left:-3pc;
-    
-    }
-    #G2sp{
-     
-      position: relative;
-      left: 18.2pc;
-      top: 1pc;
-    
-    }
-    #G2p{
-      top: -3.5pc;
-    width: 25pc;
-    font-size: 1.2pc;
-    left: 3pc;
-    }
-    
-    #G2b{
-      top: -3pc;
-    left: 11pc;
-    }
-    
-    .Group1,.Group2,.Group3,.Group4{
-    }
-    
-    #subGroup2{
-    }
-    
-    
-    
-    
-    
-    
-    
-    /* Group 3 */
-    
-    .Group3{
-      margin-top: 7pc;
-    
-      height: 230vh;
-    }
-    #subGroup3{
-      height: 228vh;
-    }
-    
-    #G3sp{
-      margin-left: 12pc;
-    
-    }
-    #G3h{
-    position: relative;
-      font-size: 1.4pc;
-      top: 1pc;
-    left: -15.5pc;
-    width: 18pc;
-    
-    }
-    #box1, #box2, #box3, #box4, #box5, #box6{
-      margin-left: 9pc;
-      margin-top: 4pc;
-    height: 15pc;
-    border: 1.2px solid rgb(118, 98, 98);
-    border-radius: 5px;
-    }
-    #Bx1i,#Bx2i,#Bx3i,#Bx4i,#Bx5i,#Bx6i{
-      position: relative;
-      left: 7pc;
-      top: 0.5pc;
-    
-    }
-    #Bx1h, #Bx2h, #Bx3h, #Bx4h, #Bx5h, #Bx6h {
-    left:0.1pc;
-    }
-    #Bx1p, #Bx2p, #Bx3p, #Bx4p, #Bx5p, #Bx6p {
-    width: 18pc;
-    left: 1pc;
-    }
-    
-    /* Group4 */
-    
-    .Group4{
-      margin-top: 24pc;
-    
-    }
-    
-    #G4sp{
-      top: 199pc;
-      left: 12pc;
-    
-    }
-    #G4h{
-      top: 201pc;
-      left: 7pc;
-      font-size: 1.2pc;
-      font-weight: 400;
-    
-    }
-    
-    #G4p{
-      top: 202pc;
-      left: 7pc;
-      font-size: 1.2pc;
-    width: 25pc;
-    }
-    #G4sp1{
-      top: 211pc;
-      left: 7pc;
-      font-size: 15px;
-    width: 20pc;
-    }
-  
-      
-
-}
-
-
-
-@media (min-width:600px) and (max-width:650px){
-  
-
-  
-  .Group1{
-    height: 25pc;
-  max-width: 100pc; 
   }
-    #logoI{
-      left:1pc;
-      width: 7pc;
-    }
-  
-    
-    .subGroup1{
-      width: 0pc;
-    }
-  
-    .navdiv{
-      width: 100pc;
-    width: 0vmax;
-    margin-left: -3pc;
-  height: 20pc;
+  #G1b {
+    top: -1pc;
+    left: 1.1pc;
   }
-    #navul{
-      margin-left: 11pc;
-      color: white;
-      position: absolute;
-      top: 1pc;
-      left: 11pc;
-    }
-    #navli1,#navli2,#navli3,#navli4{
-      color: white;
-      margin-left: 0.5pc;
-      font-size: 0.8pc;
-      font-weight: 600;
-    }
-    #headingpera{
-      left: 1pc;  
-      top: 7pc;
-  position: absolute;
-  width: 20pc;
-  height: 13pc;
-  
+  #G1hi {
+    left: 4.6pc;
+    width: 88vmax;
+    height: 40vmax;
   }
-    #G1h{
-      font-size: 1.8pc;
-      /* margin-left: -3pc;
-      margin-top: -6pc; */
-      position: relative;
-    left: 0.5pc;
-    }
-    #G1p{
-  top:-1pc;
-  left: 0.5pc;
-  width: 25pc;
-  font-size: 1.3pc;
-  }
-    #G1b{
-      top: -1pc;
-      left: 1.1pc;
-    }
-    #G1hi{
-      left: 4.6pc;
-      width: 95vmax;
-      height: 40vmax;
-    }
-  
-  
-  
-  
-  
-  
+
   /* Group 2start */
-  
-  #subGroup2{
+
+  #subGroup2 {
     height: 30pc;
   }
-  #G2i{
-  margin-left: -5pc;
+  #G2i {
+    margin-left: -5pc;
     width: 23pc;
     height: 20pc;
   }
-  
-  #contentdiv{
+
+  #contentdiv {
     margin-left: -27.5pc;
     margin-top: 12pc;
   }
-  #G2h{
+  #G2h {
     font-size: 1.7pc;
     margin-top: 3pc;
-  width: 25pc;
-  margin-left:-3pc;
-  
+    width: 25pc;
+    margin-left: -3pc;
   }
-  #G2sp{
-   
+  #G2sp {
     position: relative;
     left: 18.2pc;
     top: 1pc;
-  
   }
-  #G2p{
+  #G2p {
     top: -3.5pc;
-  width: 27pc;
-  font-size: 1.2pc;
-  left: 3pc;
-  
-}
-  
-  #G2b{
+    width: 25pc;
+    font-size: 1.2pc;
+    left: 3pc;
+  }
+
+  #G2b {
     top: -3pc;
-  left: 11pc;
+    left: 11pc;
   }
-  
-  .Group1,.Group2,.Group3,.Group4{
+
+  .Group1,
+  .Group2,
+  .Group3,
+  .Group4 {
   }
-  
-  #subGroup2{
+
+  #subGroup2 {
   }
-  
-  
-  
-  
-  
-  
-  
+
   /* Group 3 */
-  
-  .Group3{
+
+  .Group3 {
     margin-top: 7pc;
-  
+
     height: 230vh;
   }
-  #subGroup3{
+  #subGroup3 {
     height: 228vh;
   }
-  
-  #G3sp{
-    margin-left: 14pc;
-  
+
+  #G3sp {
+    margin-left: 12pc;
   }
-  #G3h{
-  position: relative;
+  #G3h {
+    position: relative;
     font-size: 1.4pc;
     top: 1pc;
-  left: -12.5pc;
-  width: 18pc;
-  
+    left: -15.5pc;
+    width: 18pc;
   }
-  #box1, #box2, #box3, #box4, #box5, #box6{
-    margin-left: 11pc;
+  #box1,
+  #box2,
+  #box3,
+  #box4,
+  #box5,
+  #box6 {
+    margin-left: 9pc;
     margin-top: 4pc;
-  height: 15pc;
-  border: 1.2px solid rgb(118, 98, 98);
-  border-radius: 5px;
+    height: 15pc;
+    border: 1.2px solid rgb(118, 98, 98);
+    border-radius: 5px;
   }
-  #Bx1i,#Bx2i,#Bx3i,#Bx4i,#Bx5i,#Bx6i{
+  #Bx1i,
+  #Bx2i,
+  #Bx3i,
+  #Bx4i,
+  #Bx5i,
+  #Bx6i {
     position: relative;
     left: 7pc;
     top: 0.5pc;
-  
   }
-  #Bx1h, #Bx2h, #Bx3h, #Bx4h, #Bx5h, #Bx6h {
-  left:0.1pc;
+  #Bx1h,
+  #Bx2h,
+  #Bx3h,
+  #Bx4h,
+  #Bx5h,
+  #Bx6h {
+    left: 0.1pc;
   }
-  #Bx1p, #Bx2p, #Bx3p, #Bx4p, #Bx5p, #Bx6p {
-  width: 18pc;
-  left: 1pc;
+  #Bx1p,
+  #Bx2p,
+  #Bx3p,
+  #Bx4p,
+  #Bx5p,
+  #Bx6p {
+    width: 18pc;
+    left: 1pc;
   }
-  
+
   /* Group4 */
-  
-  .Group4{
+
+  .Group4 {
     margin-top: 24pc;
-  
   }
-  
-  #G4sp{
+
+  #G4sp {
+    top: 199pc;
+    left: 12pc;
+  }
+  #G4h {
+    top: 201pc;
+    left: 7pc;
+    font-size: 1.2pc;
+    font-weight: 400;
+  }
+
+  #G4p {
+    top: 202pc;
+    left: 7pc;
+    font-size: 1.2pc;
+    width: 25pc;
+  }
+  #G4sp1 {
+    top: 211pc;
+    left: 7pc;
+    font-size: 15px;
+    width: 20pc;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 650px) {
+  .Group1 {
+    height: 25pc;
+    max-width: 100pc;
+  }
+  #logoI {
+    left: 1pc;
+    width: 7pc;
+  }
+
+  .subGroup1 {
+    width: 0pc;
+  }
+
+  .navdiv {
+    width: 100pc;
+    width: 0vmax;
+    margin-left: -3pc;
+    height: 20pc;
+  }
+  #navul {
+    margin-left: 11pc;
+    color: white;
+    position: absolute;
+    top: 1pc;
+    left: 11pc;
+  }
+  #navli1,
+  #navli2,
+  #navli3,
+  #navli4 {
+    color: white;
+    margin-left: 0.5pc;
+    font-size: 0.8pc;
+    font-weight: 600;
+  }
+  #headingpera {
+    left: 1pc;
+    top: 7pc;
+    position: absolute;
+    width: 20pc;
+    height: 13pc;
+  }
+  #G1h {
+    font-size: 1.8pc;
+    /* margin-left: -3pc;
+      margin-top: -6pc; */
+    position: relative;
+    left: 0.5pc;
+  }
+  #G1p {
+    top: -1pc;
+    left: 0.5pc;
+    width: 25pc;
+    font-size: 1.3pc;
+  }
+  #G1b {
+    top: -1pc;
+    left: 1.1pc;
+  }
+  #G1hi {
+    left: 4.6pc;
+    width: 95vmax;
+    height: 40vmax;
+  }
+
+  /* Group 2start */
+
+  #subGroup2 {
+    height: 30pc;
+  }
+  #G2i {
+    margin-left: -5pc;
+    width: 23pc;
+    height: 20pc;
+  }
+
+  #contentdiv {
+    margin-left: -27.5pc;
+    margin-top: 12pc;
+  }
+  #G2h {
+    font-size: 1.7pc;
+    margin-top: 3pc;
+    width: 25pc;
+    margin-left: -3pc;
+  }
+  #G2sp {
+    position: relative;
+    left: 18.2pc;
+    top: 1pc;
+  }
+  #G2p {
+    top: -3.5pc;
+    width: 27pc;
+    font-size: 1.2pc;
+    left: 3pc;
+  }
+
+  #G2b {
+    top: -3pc;
+    left: 11pc;
+  }
+
+  .Group1,
+  .Group2,
+  .Group3,
+  .Group4 {
+  }
+
+  #subGroup2 {
+  }
+
+  /* Group 3 */
+
+  .Group3 {
+    margin-top: 7pc;
+
+    height: 230vh;
+  }
+  #subGroup3 {
+    height: 228vh;
+  }
+
+  #G3sp {
+    margin-left: 14pc;
+  }
+  #G3h {
+    position: relative;
+    font-size: 1.4pc;
+    top: 1pc;
+    left: -12.5pc;
+    width: 18pc;
+  }
+  #box1,
+  #box2,
+  #box3,
+  #box4,
+  #box5,
+  #box6 {
+    margin-left: 11pc;
+    margin-top: 4pc;
+    height: 15pc;
+    border: 1.2px solid rgb(118, 98, 98);
+    border-radius: 5px;
+  }
+  #Bx1i,
+  #Bx2i,
+  #Bx3i,
+  #Bx4i,
+  #Bx5i,
+  #Bx6i {
+    position: relative;
+    left: 7pc;
+    top: 0.5pc;
+  }
+  #Bx1h,
+  #Bx2h,
+  #Bx3h,
+  #Bx4h,
+  #Bx5h,
+  #Bx6h {
+    left: 0.1pc;
+  }
+  #Bx1p,
+  #Bx2p,
+  #Bx3p,
+  #Bx4p,
+  #Bx5p,
+  #Bx6p {
+    width: 18pc;
+    left: 1pc;
+  }
+
+  /* Group4 */
+
+  .Group4 {
+    margin-top: 24pc;
+  }
+
+  #G4sp {
     top: 201pc;
     left: 14pc;
-  
   }
-  #G4h{
+  #G4h {
     top: 202.5pc;
     left: 9pc;
     font-size: 1.2pc;
     font-weight: 400;
-  
   }
-  
-  #G4p{
+
+  #G4p {
     top: 203pc;
     left: 9pc;
     font-size: 1.2pc;
-  width: 25pc;
+    width: 25pc;
   }
-  #G4sp1{
+  #G4sp1 {
     top: 211pc;
     left: 9pc;
     font-size: 15px;
-  width: 20pc;
+    width: 20pc;
   }
-
-
 }
 
-
-
-@media (min-width:650px) and (max-width:700px){
-
-  
-  
-  .Group1{
+@media (min-width: 650px) and (max-width: 700px) {
+  .Group1 {
     height: 25pc;
-  max-width: 100pc; 
+    max-width: 100pc;
   }
-    #logoI{
-      left:1pc;
-      width: 7pc;
-    }
-  
-    
-    .subGroup1{
-      width: 0pc;
-    }
-  
-    .navdiv{
-      width: 100pc;
+  #logoI {
+    left: 1pc;
+    width: 7pc;
+  }
+
+  .subGroup1 {
+    width: 0pc;
+  }
+
+  .navdiv {
+    width: 100pc;
     width: 0vmax;
     margin-left: -3pc;
-  height: 20pc;
+    height: 20pc;
   }
-    #navul{
-      margin-left: 11pc;
-      color: white;
-      position: absolute;
-      top: 1pc;
-      left: 11pc;
-    }
-    #navli1,#navli2,#navli3,#navli4{
-      color: white;
-      margin-left: 0.5pc;
-      font-size: 0.8pc;
-      font-weight: 600;
-    }
-    #headingpera{
-      left: 1pc;  
-      top: 7pc;
-  position: absolute;
-  width: 20pc;
-  height: 13pc;
-  
+  #navul {
+    margin-left: 11pc;
+    color: white;
+    position: absolute;
+    top: 1pc;
+    left: 11pc;
   }
-    #G1h{
-      font-size: 1.8pc;
-      /* margin-left: -3pc;
+  #navli1,
+  #navli2,
+  #navli3,
+  #navli4 {
+    color: white;
+    margin-left: 0.5pc;
+    font-size: 0.8pc;
+    font-weight: 600;
+  }
+  #headingpera {
+    left: 1pc;
+    top: 7pc;
+    position: absolute;
+    width: 20pc;
+    height: 13pc;
+  }
+  #G1h {
+    font-size: 1.8pc;
+    /* margin-left: -3pc;
       margin-top: -6pc; */
-      position: relative;
+    position: relative;
     left: 0.5pc;
-    }
-    #G1p{
-  top:-1pc;
-  left: 0.5pc;
-  width: 25pc;
-  font-size: 1.3pc;
   }
-    #G1b{
-      top: -1pc;
-      left: 1.1pc;
-    }
-    #G1hi{
-      left: 4.6pc;
-      width: 97vmax;
-      height: 40vmax;
-    }
-  
-  
-  
-  
-  
-  
+  #G1p {
+    top: -1pc;
+    left: 0.5pc;
+    width: 25pc;
+    font-size: 1.3pc;
+  }
+  #G1b {
+    top: -1pc;
+    left: 1.1pc;
+  }
+  #G1hi {
+    left: 4.6pc;
+    width: 97vmax;
+    height: 40vmax;
+  }
+
   /* Group 2start */
-  
-  #subGroup2{
+
+  #subGroup2 {
     height: 30pc;
   }
-  #G2i{
-  margin-left: -3pc;
+  #G2i {
+    margin-left: -3pc;
     width: 23pc;
     height: 20pc;
   }
-  
-  #contentdiv{
+
+  #contentdiv {
     margin-left: -27.5pc;
     margin-top: 12pc;
   }
-  #G2h{
+  #G2h {
     font-size: 1.7pc;
     margin-top: 3pc;
-  width: 25pc;
-  margin-left:-3pc;
-  
+    width: 25pc;
+    margin-left: -3pc;
   }
-  #G2sp{
-   
+  #G2sp {
     position: relative;
     left: 18.2pc;
     top: 1pc;
-  
   }
-  #G2p{
+  #G2p {
     top: -3.5pc;
-  width: 27pc;
-  font-size: 1.2pc;
-  left: 3pc;
-  
-}
-  
-  #G2b{
+    width: 27pc;
+    font-size: 1.2pc;
+    left: 3pc;
+  }
+
+  #G2b {
     top: -3pc;
-  left: 11pc;
+    left: 11pc;
   }
-  
-  .Group1,.Group2,.Group3,.Group4{
+
+  .Group1,
+  .Group2,
+  .Group3,
+  .Group4 {
   }
-  
-  #subGroup2{
+
+  #subGroup2 {
   }
-  
-  
-  
-  
-  
-  
-  
+
   /* Group 3 */
-  
-  .Group3{
+
+  .Group3 {
     margin-top: 7pc;
-  
+
     height: 230vh;
   }
-  #subGroup3{
+  #subGroup3 {
     height: 228vh;
   }
-  
-  #G3sp{
+
+  #G3sp {
     margin-left: 14pc;
-  
   }
-  #G3h{
-  position: relative;
+  #G3h {
+    position: relative;
     font-size: 1.4pc;
     top: 1pc;
-  left: -12.5pc;
-  width: 18pc;
-  
+    left: -12.5pc;
+    width: 18pc;
   }
-  #box1, #box2, #box3, #box4, #box5, #box6{
+  #box1,
+  #box2,
+  #box3,
+  #box4,
+  #box5,
+  #box6 {
     margin-left: 11pc;
     margin-top: 4pc;
-  height: 15pc;
-  border: 1.2px solid rgb(118, 98, 98);
-  border-radius: 5px;
+    height: 15pc;
+    border: 1.2px solid rgb(118, 98, 98);
+    border-radius: 5px;
   }
-  #Bx1i,#Bx2i,#Bx3i,#Bx4i,#Bx5i,#Bx6i{
+  #Bx1i,
+  #Bx2i,
+  #Bx3i,
+  #Bx4i,
+  #Bx5i,
+  #Bx6i {
     position: relative;
     left: 7pc;
     top: 0.5pc;
-  
   }
-  #Bx1h, #Bx2h, #Bx3h, #Bx4h, #Bx5h, #Bx6h {
-  left:0.1pc;
+  #Bx1h,
+  #Bx2h,
+  #Bx3h,
+  #Bx4h,
+  #Bx5h,
+  #Bx6h {
+    left: 0.1pc;
   }
-  #Bx1p, #Bx2p, #Bx3p, #Bx4p, #Bx5p, #Bx6p {
-  width: 18pc;
-  left: 1pc;
+  #Bx1p,
+  #Bx2p,
+  #Bx3p,
+  #Bx4p,
+  #Bx5p,
+  #Bx6p {
+    width: 18pc;
+    left: 1pc;
   }
-  
+
   /* Group4 */
-  
-  .Group4{
+
+  .Group4 {
     margin-top: 10pc;
-  
   }
-  
-  #G4sp{
+
+  #G4sp {
     top: 186pc;
     left: 17pc;
-  
   }
-  #G4h{
+  #G4h {
     top: 189pc;
     left: 11pc;
     font-size: 1.2pc;
     font-weight: 400;
-  
   }
-  
-  #G4p{
+
+  #G4p {
     top: 190pc;
     left: 11pc;
     font-size: 1.2pc;
-  width: 25pc;
+    width: 25pc;
   }
-  #G4sp1{
+  #G4sp1 {
     top: 199pc;
     left: 11pc;
     font-size: 15px;
-  width: 20pc;
+    width: 20pc;
   }
-
 }
 
-
-@media (min-width:700px) and (max-width:750px){
-
-  
-  .Group1{
+@media (min-width: 700px) and (max-width: 750px) {
+  .Group1 {
     height: 25pc;
-  max-width: 100pc; 
+    max-width: 100pc;
   }
-    #logoI{
-      left:1pc;
-      width: 7pc;
-    }
-  
-    
-    .subGroup1{
-      width: 0pc;
-    }
-  
-    .navdiv{
-      width: 100pc;
+  #logoI {
+    left: 1pc;
+    width: 7pc;
+  }
+
+  .subGroup1 {
+    width: 0pc;
+  }
+
+  .navdiv {
+    width: 100pc;
     width: 0vmax;
     margin-left: -3pc;
-  height: 20pc;
+    height: 20pc;
   }
-    #navul{
-      margin-left: 11pc;
-      color: white;
-      position: absolute;
-      top: 1pc;
-      left: 11pc;
-    }
-    #navli1,#navli2,#navli3,#navli4{
-      color: white;
-      margin-left: 0.5pc;
-      font-size: 0.8pc;
-      font-weight: 600;
-    }
-    #headingpera{
-      left: 1pc;  
-      top: 7pc;
-  position: absolute;
-  width: 20pc;
-  height: 13pc;
-  
+  #navul {
+    margin-left: 11pc;
+    color: white;
+    position: absolute;
+    top: 1pc;
+    left: 11pc;
   }
-    #G1h{
-      font-size: 1.8pc;
-      /* margin-left: -3pc;
+  #navli1,
+  #navli2,
+  #navli3,
+  #navli4 {
+    color: white;
+    margin-left: 0.5pc;
+    font-size: 0.8pc;
+    font-weight: 600;
+  }
+  #headingpera {
+    left: 1pc;
+    top: 7pc;
+    position: absolute;
+    width: 20pc;
+    height: 13pc;
+  }
+  #G1h {
+    font-size: 1.8pc;
+    /* margin-left: -3pc;
       margin-top: -6pc; */
-      position: relative;
+    position: relative;
     left: 0.5pc;
-    }
-    #G1p{
-  top:-1pc;
-  left: 0.5pc;
-  width: 25pc;
-  font-size: 1.3pc;
   }
-    #G1b{
-      top: -1pc;
-      left: 1.1pc;
-    }
-    #G1hi{
-      left: 4.6pc;
-      width: 97vmax;
-      height: 40vmax;
-    }
-  
-  
-  
-  
-  
-  
+  #G1p {
+    top: -1pc;
+    left: 0.5pc;
+    width: 25pc;
+    font-size: 1.3pc;
+  }
+  #G1b {
+    top: -1pc;
+    left: 1.1pc;
+  }
+  #G1hi {
+    left: 4.6pc;
+    width: 97vmax;
+    height: 40vmax;
+  }
+
   /* Group 2start */
-  
-  #subGroup2{
+
+  #subGroup2 {
     height: 30pc;
   }
-  #G2i{
-  margin-left: -3pc;
+  #G2i {
+    margin-left: -3pc;
     width: 25pc;
     height: 22pc;
   }
-  
-  #contentdiv{
+
+  #contentdiv {
     margin-left: -27.5pc;
     margin-top: 12pc;
   }
-  #G2h{
+  #G2h {
     font-size: 1.7pc;
     margin-top: 3pc;
-  width: 25pc;
-  margin-left:-3pc;
-  
+    width: 25pc;
+    margin-left: -3pc;
   }
-  #G2sp{
-   
+  #G2sp {
     position: relative;
     left: 19.9pc;
     top: 1pc;
-  
   }
-  #G2p{
+  #G2p {
     top: -3.5pc;
-  width: 27pc;
-  font-size: 1.2pc;
-  left: 3pc;
-  
-}
-  
-  #G2b{
+    width: 27pc;
+    font-size: 1.2pc;
+    left: 3pc;
+  }
+
+  #G2b {
     top: -3pc;
-  left: 11pc;
+    left: 11pc;
   }
-  
-  .Group1,.Group2,.Group3,.Group4{
+
+  .Group1,
+  .Group2,
+  .Group3,
+  .Group4 {
   }
-  
-  #subGroup2{
+
+  #subGroup2 {
   }
-  
-  
-  
-  
-  
-  
-  
+
   /* Group 3 */
-  
-  .Group3{
+
+  .Group3 {
     margin-top: 7pc;
-  
+
     height: 230vh;
   }
-  #subGroup3{
+  #subGroup3 {
     height: 228vh;
   }
-  
-  #G3sp{
+
+  #G3sp {
     margin-left: 17pc;
-  
   }
-  #G3h{
-  position: relative;
+  #G3h {
+    position: relative;
     font-size: 1.4pc;
     top: 1pc;
-  left: -9.5pc;
-  width: 18pc;
-  
+    left: -9.5pc;
+    width: 18pc;
   }
-  #box1, #box2, #box3, #box4, #box5, #box6{
+  #box1,
+  #box2,
+  #box3,
+  #box4,
+  #box5,
+  #box6 {
     margin-left: 14pc;
     margin-top: 4pc;
-  height: 15pc;
-  border: 1.2px solid rgb(118, 98, 98);
-  border-radius: 5px;
+    height: 15pc;
+    border: 1.2px solid rgb(118, 98, 98);
+    border-radius: 5px;
   }
-  #Bx1i,#Bx2i,#Bx3i,#Bx4i,#Bx5i,#Bx6i{
+  #Bx1i,
+  #Bx2i,
+  #Bx3i,
+  #Bx4i,
+  #Bx5i,
+  #Bx6i {
     position: relative;
     left: 7pc;
     top: 0.5pc;
-  
   }
-  #Bx1h, #Bx2h, #Bx3h, #Bx4h, #Bx5h, #Bx6h {
-  left:0.1pc;
+  #Bx1h,
+  #Bx2h,
+  #Bx3h,
+  #Bx4h,
+  #Bx5h,
+  #Bx6h {
+    left: 0.1pc;
   }
-  #Bx1p, #Bx2p, #Bx3p, #Bx4p, #Bx5p, #Bx6p {
-  width: 18pc;
-  left: 1pc;
+  #Bx1p,
+  #Bx2p,
+  #Bx3p,
+  #Bx4p,
+  #Bx5p,
+  #Bx6p {
+    width: 18pc;
+    left: 1pc;
   }
-  
+
   /* Group4 */
-  
-  .Group4{
+
+  .Group4 {
     margin-top: 24pc;
-  
   }
-  
-  #G4sp{
+
+  #G4sp {
     top: 186pc;
     left: 18pc;
-  
   }
-  #G4h{
+  #G4h {
     top: 189pc;
     left: 12pc;
     font-size: 1.2pc;
     font-weight: 400;
-  
   }
-  
-  #G4p{
+
+  #G4p {
     top: 190pc;
     left: 12pc;
     font-size: 1.2pc;
-  width: 25pc;
+    width: 25pc;
   }
-  #G4sp1{
+  #G4sp1 {
     top: 199pc;
     left: 12pc;
     font-size: 15px;
-  width: 27pc;
+    width: 27pc;
   }
-
-  
 }
 
-
-@media (min-width:750px) and (max-width:800px){
-  
-  
-  .Group1{
+@media (min-width: 750px) and (max-width: 800px) {
+  .Group1 {
     height: 25pc;
-  max-width: 100pc; 
+    max-width: 100pc;
   }
-    #logoI{
-      left:1pc;
-      width: 7pc;
-    }
-  
-    
-    .subGroup1{
-      width: 0pc;
-    }
-  
-    .navdiv{
-      width: 100pc;
+  #logoI {
+    left: 1pc;
+    width: 7pc;
+  }
+
+  .subGroup1 {
+    width: 0pc;
+  }
+
+  .navdiv {
+    width: 100pc;
     width: 0vmax;
     margin-left: -3pc;
-  height: 20pc;
+    height: 20pc;
   }
-    #navul{
-      margin-left: 11pc;
-      color: white;
-      position: absolute;
-      top: 1pc;
-      left: 11pc;
-    }
-    #navli1,#navli2,#navli3,#navli4{
-      color: white;
-      margin-left: 0.5pc;
-      font-size: 0.8pc;
-      font-weight: 600;
-    }
-    #headingpera{
-      left: 1pc;  
-      top: 7pc;
-  position: absolute;
-  width: 20pc;
-  height: 13pc;
-  
+  #navul {
+    margin-left: 11pc;
+    color: white;
+    position: absolute;
+    top: 1pc;
+    left: 11pc;
   }
-    #G1h{
-      font-size: 1.8pc;
-      /* margin-left: -3pc;
+  #navli1,
+  #navli2,
+  #navli3,
+  #navli4 {
+    color: white;
+    margin-left: 0.5pc;
+    font-size: 0.8pc;
+    font-weight: 600;
+  }
+  #headingpera {
+    left: 1pc;
+    top: 7pc;
+    position: absolute;
+    width: 20pc;
+    height: 13pc;
+  }
+  #G1h {
+    font-size: 1.8pc;
+    /* margin-left: -3pc;
       margin-top: -6pc; */
-      position: relative;
+    position: relative;
     left: 0.5pc;
-    }
-    #G1p{
-  top:-1pc;
-  left: 0.5pc;
-  width: 25pc;
-  font-size: 1.3pc;
   }
-    #G1b{
-      top: -1pc;
-      left: 1.1pc;
-    }
-    #G1hi{
-      left: 4.6pc;
-      width: 97vmax;
-      height: 40vmax;
-    }
-  
-  
-  
-  
-  
-  
+  #G1p {
+    top: -1pc;
+    left: 0.5pc;
+    width: 25pc;
+    font-size: 1.3pc;
+  }
+  #G1b {
+    top: -1pc;
+    left: 1.1pc;
+  }
+  #G1hi {
+    left: 4.6pc;
+    width: 97vmax;
+    height: 40vmax;
+  }
+
   /* Group 2start */
-  
-  #subGroup2{
+
+  #subGroup2 {
     height: 30pc;
   }
-  #G2i{
-  margin-left: -1pc;
+  #G2i {
+    margin-left: -1pc;
     width: 25pc;
     height: 22pc;
   }
-  
-  #contentdiv{
+
+  #contentdiv {
     margin-left: -27.5pc;
     margin-top: 12pc;
   }
-  #G2h{
+  #G2h {
     font-size: 1.7pc;
     margin-top: 4pc;
-  width: 28pc;
-  margin-left:-3pc;
-  
+    width: 28pc;
+    margin-left: -3pc;
   }
-  #G2sp{
-   
+  #G2sp {
     position: relative;
     left: 24.9pc;
     top: 2pc;
-  
   }
-  #G2p{
+  #G2p {
     top: -3.5pc;
-  width: 27pc;
-  font-size: 1.2pc;
-  left: 3pc;
-  
-}
-  
-  #G2b{
+    width: 27pc;
+    font-size: 1.2pc;
+    left: 3pc;
+  }
+
+  #G2b {
     top: -3pc;
-  left: 11pc;
+    left: 11pc;
   }
-  
-  .Group1,.Group2,.Group3,.Group4{
+
+  .Group1,
+  .Group2,
+  .Group3,
+  .Group4 {
   }
-  
-  #subGroup2{
+
+  #subGroup2 {
   }
-  
-  
-  
-  
-  
-  
-  
+
   /* Group 3 */
-  
-  .Group3{
+
+  .Group3 {
     margin-top: 7pc;
-  
+
     height: 230vh;
   }
-  #subGroup3{
+  #subGroup3 {
     height: 228vh;
   }
-  
-  #G3sp{
+
+  #G3sp {
     margin-left: 19pc;
-  
   }
-  #G3h{
-  position: relative;
+  #G3h {
+    position: relative;
     font-size: 1.4pc;
     top: 1pc;
-  left: -7.5pc;
-  width: 18pc;
-  
+    left: -7.5pc;
+    width: 18pc;
   }
-  #box1, #box2, #box3, #box4, #box5, #box6{
+  #box1,
+  #box2,
+  #box3,
+  #box4,
+  #box5,
+  #box6 {
     margin-left: 16pc;
     margin-top: 4pc;
-  height: 15pc;
-  border: 1.2px solid rgb(118, 98, 98);
-  border-radius: 5px;
+    height: 15pc;
+    border: 1.2px solid rgb(118, 98, 98);
+    border-radius: 5px;
   }
-  #Bx1i,#Bx2i,#Bx3i,#Bx4i,#Bx5i,#Bx6i{
+  #Bx1i,
+  #Bx2i,
+  #Bx3i,
+  #Bx4i,
+  #Bx5i,
+  #Bx6i {
     position: relative;
     left: 7pc;
     top: 0.5pc;
-  
   }
-  #Bx1h, #Bx2h, #Bx3h, #Bx4h, #Bx5h, #Bx6h {
-  left:0.1pc;
+  #Bx1h,
+  #Bx2h,
+  #Bx3h,
+  #Bx4h,
+  #Bx5h,
+  #Bx6h {
+    left: 0.1pc;
   }
-  #Bx1p, #Bx2p, #Bx3p, #Bx4p, #Bx5p, #Bx6p {
-  width: 18pc;
-  left: 1pc;
+  #Bx1p,
+  #Bx2p,
+  #Bx3p,
+  #Bx4p,
+  #Bx5p,
+  #Bx6p {
+    width: 18pc;
+    left: 1pc;
   }
-  
+
   /* Group4 */
-  
-  .Group4{
+
+  .Group4 {
     margin-top: 24pc;
-  
   }
-  
-  #G4sp{
+
+  #G4sp {
     top: 186pc;
     left: 18pc;
-  
   }
-  #G4h{
+  #G4h {
     top: 189pc;
     left: 12pc;
     font-size: 1.2pc;
     font-weight: 400;
-  
   }
-  
-  #G4p{
+
+  #G4p {
     top: 190pc;
     left: 12pc;
     font-size: 1.2pc;
-  width: 25pc;
+    width: 25pc;
   }
-  #G4sp1{
+  #G4sp1 {
     top: 199pc;
     left: 10pc;
     font-size: 15px;
-  width: 27pc;
+    width: 27pc;
   }
 }
 
-
-
-@media (min-width:800px) and (max-width:850px){
-  
-  
-  .Group1{
+@media (min-width: 800px) and (max-width: 850px) {
+  .Group1 {
     height: 25pc;
-  max-width: 100pc; 
+    max-width: 100pc;
   }
-    #logoI{
-      left:1pc;
-      width: 7pc;
-    }
-  
-    
-    .subGroup1{
-      width: 0pc;
-    }
-  
-    .navdiv{
-      width: 100pc;
+  #logoI {
+    left: 1pc;
+    width: 7pc;
+  }
+
+  .subGroup1 {
+    width: 0pc;
+  }
+
+  .navdiv {
+    width: 100pc;
     width: 0vmax;
     margin-left: -3pc;
-  height: 20pc;
+    height: 20pc;
   }
-    #navul{
-      margin-left: 11pc;
-      color: white;
-      position: absolute;
-      top: 1pc;
-      left: 19pc;
-    }
-    #navli1,#navli2,#navli3,#navli4{
-      color: white;
-      margin-left: 0.5pc;
-      font-size: 0.8pc;
-      font-weight: 600;
-    }
-    #headingpera{
-      left: 1pc;  
-      top: 7pc;
-  position: absolute;
-  width: 20pc;
-  height: 13pc;
-  
+  #navul {
+    margin-left: 11pc;
+    color: white;
+    position: absolute;
+    top: 1pc;
+    left: 19pc;
   }
-    #G1h{
-      font-size: 1.8pc;
-      /* margin-left: -3pc;
+  #navli1,
+  #navli2,
+  #navli3,
+  #navli4 {
+    color: white;
+    margin-left: 0.5pc;
+    font-size: 0.8pc;
+    font-weight: 600;
+  }
+  #headingpera {
+    left: 1pc;
+    top: 7pc;
+    position: absolute;
+    width: 20pc;
+    height: 13pc;
+  }
+  #G1h {
+    font-size: 1.8pc;
+    /* margin-left: -3pc;
       margin-top: -6pc; */
-      position: relative;
+    position: relative;
     left: 0.5pc;
-    }
-    #G1p{
-  top:-1pc;
-  left: 0.5pc;
-  width: 25pc;
-  font-size: 1.3pc;
   }
-    #G1b{
-      top: -1pc;
-      left: 1.1pc;
-    }
-    #G1hi{
-      left: 4.6pc;
-      width: 97vmax;
-      height: 40vmax;
-    }
-  
-  
-  
-  
-  
-  
+  #G1p {
+    top: -1pc;
+    left: 0.5pc;
+    width: 25pc;
+    font-size: 1.3pc;
+  }
+  #G1b {
+    top: -1pc;
+    left: 1.1pc;
+  }
+  #G1hi {
+    left: 4.6pc;
+    width: 97vmax;
+    height: 40vmax;
+  }
+
   /* Group 2start */
-  
-  #subGroup2{
+
+  #subGroup2 {
     height: 30pc;
   }
-  #G2i{
-  margin-left: 0.5pc;
+  #G2i {
+    margin-left: 0.5pc;
     width: 25pc;
     height: 22pc;
   }
-  
-  #contentdiv{
+
+  #contentdiv {
     margin-left: -27.5pc;
     margin-top: 12pc;
   }
-  #G2h{
+  #G2h {
     font-size: 1.7pc;
     margin-top: 4pc;
-  width: 28pc;
-  margin-left:-3pc;
-  
+    width: 28pc;
+    margin-left: -3pc;
   }
-  #G2sp{
-   
+  #G2sp {
     position: relative;
     left: 24.9pc;
     top: 2pc;
-  
   }
-  #G2p{
+  #G2p {
     top: -3.5pc;
-  width: 27pc;
-  font-size: 1.2pc;
-  left: 3pc;
-  
-}
-  
-  #G2b{
+    width: 27pc;
+    font-size: 1.2pc;
+    left: 3pc;
+  }
+
+  #G2b {
     top: -3pc;
-  left: 11pc;
+    left: 11pc;
   }
-  
-  .Group1,.Group2,.Group3,.Group4{
+
+  .Group1,
+  .Group2,
+  .Group3,
+  .Group4 {
   }
-  
-  #subGroup2{
+
+  #subGroup2 {
   }
-  
-  
-  
-  
-  
-  
-  
+
   /* Group 3 */
-  
-  .Group3{
+
+  .Group3 {
     margin-top: 7pc;
-  
+
     height: 230vh;
   }
-  #subGroup3{
+  #subGroup3 {
     height: 228vh;
   }
-  
-  #G3sp{
+
+  #G3sp {
     margin-left: 19pc;
-  
   }
-  #G3h{
-  position: relative;
+  #G3h {
+    position: relative;
     font-size: 1.4pc;
     top: 1pc;
-  left: -7.5pc;
-  width: 18pc;
-  
+    left: -7.5pc;
+    width: 18pc;
   }
-  #box1, #box2, #box3, #box4, #box5, #box6{
+  #box1,
+  #box2,
+  #box3,
+  #box4,
+  #box5,
+  #box6 {
     margin-left: 16pc;
     margin-top: 4pc;
-  height: 15pc;
-  border: 1.2px solid rgb(118, 98, 98);
-  border-radius: 5px;
+    height: 15pc;
+    border: 1.2px solid rgb(118, 98, 98);
+    border-radius: 5px;
   }
-  #Bx1i,#Bx2i,#Bx3i,#Bx4i,#Bx5i,#Bx6i{
+  #Bx1i,
+  #Bx2i,
+  #Bx3i,
+  #Bx4i,
+  #Bx5i,
+  #Bx6i {
     position: relative;
     left: 7pc;
     top: 0.5pc;
-  
   }
-  #Bx1h, #Bx2h, #Bx3h, #Bx4h, #Bx5h, #Bx6h {
-  left:0.1pc;
+  #Bx1h,
+  #Bx2h,
+  #Bx3h,
+  #Bx4h,
+  #Bx5h,
+  #Bx6h {
+    left: 0.1pc;
   }
-  #Bx1p, #Bx2p, #Bx3p, #Bx4p, #Bx5p, #Bx6p {
-  width: 18pc;
-  left: 1pc;
+  #Bx1p,
+  #Bx2p,
+  #Bx3p,
+  #Bx4p,
+  #Bx5p,
+  #Bx6p {
+    width: 18pc;
+    left: 1pc;
   }
-  
+
   /* Group4 */
-  
-  .Group4{
+
+  .Group4 {
     margin-top: 24pc;
-  
   }
-  
-  #G4sp{
+
+  #G4sp {
     top: 186pc;
     left: 20pc;
-  
   }
-  #G4h{
+  #G4h {
     top: 189pc;
     left: 14pc;
     font-size: 1.2pc;
     font-weight: 400;
-  
   }
-  
-  #G4p{
+
+  #G4p {
     top: 190pc;
     left: 14pc;
     font-size: 1.2pc;
-  width: 25pc;
+    width: 25pc;
   }
-  #G4sp1{
-    top:202pc;
+  #G4sp1 {
+    top: 202pc;
     left: 14pc;
     font-size: 15px;
-  width: 27pc;
+    width: 27pc;
   }
 }
 
-
-
-@media (min-width:1350px) and (max-width:1400px){
-  
-
-  .Group1{
+@media (min-width: 1350px) and (max-width: 1400px) {
+  .Group1 {
     height: 25pc;
-  max-width: 100pc; 
+    max-width: 100pc;
   }
-    #logoI{
-      left:1pc;
-      width: 7pc;
-    }
-  
-    
-    .subGroup1{
-      width: 0pc;
-    }
-  
-    .navdiv{
-      width: 100pc;
+  #logoI {
+    left: 1pc;
+    width: 7pc;
+  }
+
+  .subGroup1 {
+    width: 0pc;
+  }
+
+  .navdiv {
+    width: 100pc;
     width: 0vmax;
     margin-left: -3pc;
-  height: 20pc;
+    height: 20pc;
   }
-    #navul{
-      margin-left: 11pc;
-      color: white;
-      position: absolute;
-      top: 1pc;
-      left: 40pc;
-    }
-    #navli1,#navli2,#navli3,#navli4{
-      color: white;
-      margin-left: 0.9pc;
-      font-size: 0.8pc;
-      font-weight: 600;
-    }
-    #headingpera{
-      left: 1pc;  
-      top: 7pc;
-  position: absolute;
-  width: 20pc;
-  height: 13pc;
-  
+  #navul {
+    margin-left: 11pc;
+    color: white;
+    position: absolute;
+    top: 1pc;
+    left: 40pc;
   }
-    #G1h{
-      font-size: 2pc;
-      /* margin-left: -3pc;
+  #navli1,
+  #navli2,
+  #navli3,
+  #navli4 {
+    color: white;
+    margin-left: 0.9pc;
+    font-size: 0.8pc;
+    font-weight: 600;
+  }
+  #headingpera {
+    left: 1pc;
+    top: 7pc;
+    position: absolute;
+    width: 20pc;
+    height: 13pc;
+  }
+  #G1h {
+    font-size: 2pc;
+    /* margin-left: -3pc;
       margin-top: -6pc; */
-      position: relative;
+    position: relative;
     left: 4pc;
     width: 40pc;
-    }
-    #G1p{
-  top:-1pc;
-  left: 4pc;
-  width: 27pc;
-  font-size: 1.3pc;
   }
-    #G1b{
-      top: -1pc;
-      left: 4.1pc;
-    }
-    #G1hi{
-      left: 4.6pc;
-      width: 97vmax;
-      height: 40vmax;
-    }
-  
-  
-  
-  
-  
-  
+  #G1p {
+    top: -1pc;
+    left: 4pc;
+    width: 27pc;
+    font-size: 1.3pc;
+  }
+  #G1b {
+    top: -1pc;
+    left: 4.1pc;
+  }
+  #G1hi {
+    left: 4.6pc;
+    width: 97vmax;
+    height: 40vmax;
+  }
+
   /* Group 2start */
-  
-  #subGroup2{
+
+  #subGroup2 {
     height: 30pc;
   }
-  #G2i{
+  #G2i {
     margin-top: 9pc;
-  margin-left: -1pc;
+    margin-left: -1pc;
     width: 25pc;
     height: 22pc;
   }
-  
-  #contentdiv{
+
+  #contentdiv {
     margin-left: 1.5pc;
     margin-top: 7pc;
   }
-  #G2h{
+  #G2h {
     font-size: 1.7pc;
     margin-top: 4pc;
-  width: 28pc;
-  margin-left:-3pc;
-  
+    width: 28pc;
+    margin-left: -3pc;
   }
-  #G2sp{
-   
+  #G2sp {
     position: relative;
     left: 24.9pc;
     top: 2pc;
-  
   }
-  #G2p{
+  #G2p {
     top: -3.5pc;
-  width: 27pc;
-  font-size: 1.2pc;
-  left: 3pc;
-  
-}
-  
-  #G2b{
+    width: 27pc;
+    font-size: 1.2pc;
+    left: 3pc;
+  }
+
+  #G2b {
     top: -3pc;
-  left: 11pc;
+    left: 11pc;
   }
-  
-  .Group1,.Group2,.Group3,.Group4{
+
+  .Group1,
+  .Group2,
+  .Group3,
+  .Group4 {
   }
-  
-  #subGroup2{
+
+  #subGroup2 {
   }
-  
-  
-  
-  
-  
-  
-  
+
   /* Group 3 */
-  
-  .Group3{
+
+  .Group3 {
     margin-top: 2pc;
-  
   }
-  #subGroup3{
-    
+  #subGroup3 {
   }
-  
-  #G3sp{
+
+  #G3sp {
     margin-left: 35pc;
-  
   }
-  #G3h{
-  position: relative;
+  #G3h {
+    position: relative;
     font-size: 2pc;
     top: 1pc;
-  left: 5pc;
-  width: 25pc;
-  
+    left: 5pc;
+    width: 25pc;
   }
-  #box1, #box2, #box3, #box4, #box5, #box6{
+  #box1,
+  #box2,
+  #box3,
+  #box4,
+  #box5,
+  #box6 {
     margin-left: 16pc;
     margin-top: 4pc;
-  height: 15pc;
-  border: 1.2px solid rgb(118, 98, 98);
-  border-radius: 5px;
+    height: 15pc;
+    border: 1.2px solid rgb(118, 98, 98);
+    border-radius: 5px;
   }
-  #Bx1i,#Bx2i,#Bx3i,#Bx4i,#Bx5i,#Bx6i{
+  #Bx1i,
+  #Bx2i,
+  #Bx3i,
+  #Bx4i,
+  #Bx5i,
+  #Bx6i {
     position: relative;
     left: 7pc;
     top: 0.5pc;
-  
   }
-  #Bx1h, #Bx2h, #Bx3h, #Bx4h, #Bx5h, #Bx6h {
-  left:0.1pc;
+  #Bx1h,
+  #Bx2h,
+  #Bx3h,
+  #Bx4h,
+  #Bx5h,
+  #Bx6h {
+    left: 0.1pc;
   }
-  #Bx1p, #Bx2p, #Bx3p, #Bx4p, #Bx5p, #Bx6p {
-  width: 18pc;
-  left: 1pc;
+  #Bx1p,
+  #Bx2p,
+  #Bx3p,
+  #Bx4p,
+  #Bx5p,
+  #Bx6p {
+    width: 18pc;
+    left: 1pc;
   }
-  
+
   /* Group4 */
-  
-  .Group4{
+
+  .Group4 {
     margin-top: 24pc;
-  
   }
-  
-  #G4sp{
+
+  #G4sp {
     top: 124pc;
     left: 40pc;
   }
-  #G4h{
+  #G4h {
     top: 126pc;
     left: 34pc;
     font-size: 1.2pc;
     font-weight: 400;
-  
   }
-  
-  #G4p{
+
+  #G4p {
     top: 129pc;
     left: 30pc;
     font-size: 1.2pc;
-  width: 40pc;
+    width: 40pc;
   }
-  #G4sp1{
+  #G4sp1 {
     top: 142pc;
     left: 32pc;
     font-size: 15px;
-  width: 27pc;
+    width: 27pc;
   }
 }
-
