@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Eldas/static/css/main.fe86da26.css",
+    "main.js": "/Eldas/static/js/main.fd66c227.js",
+    "static/js/787.ac21e866.chunk.js": "/Eldas/static/js/787.ac21e866.chunk.js",
+    "static/media/footer.png": "/Eldas/static/media/footer.d2b3bf55120ee0efdd25.png",
+    "static/media/logo.svg": "/Eldas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Eldas/index.html",
+    "main.fe86da26.css.map": "/Eldas/static/css/main.fe86da26.css.map",
+    "main.fd66c227.js.map": "/Eldas/static/js/main.fd66c227.js.map",
+    "787.ac21e866.chunk.js.map": "/Eldas/static/js/787.ac21e866.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe86da26.css",
+    "static/js/main.fd66c227.js"
+  ]
+}
